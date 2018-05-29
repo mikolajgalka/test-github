@@ -1,0 +1,3 @@
+połączenie dwóch liń w jedną:  ctrl+j 
+zawijanie tekstu: alt+z
+
